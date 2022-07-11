@@ -38,6 +38,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+<h2 align="center">Screenshot - mini Portifolio </h2>
+
+<p align="center">
+  <a>
+    <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_04.gif?raw=true">
+  </a>
+</p>
+
 ### Autor
 ---
 
