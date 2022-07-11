@@ -42,7 +42,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p align="center">
   <a>
-    <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_04.gif?raw=true">
+    <img width="800" src="https://github.com/newryan/MaratonaExplorer2.0/blob/main/assets/print.JPG?raw=true">
   </a>
 </p>
 
