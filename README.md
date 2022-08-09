@@ -42,17 +42,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p align="center">
   <a>
-    <img width="800" src="https://github.com/newryan/MaratonaExplorer2.0/blob/main/assets/print.JPG?raw=true">
+    <img width="800" src="https://github.com/ildsonLeno/MaratonaExplorer2.0/blob/main/assets/print.JPG?raw=true">
   </a>
 </p>
 
 ### Autor
 ---
 
-<a href="https://github.com/newryan">
+<a href="https://github.com/ildsonLeno">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15676557?s=96&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Ildson Leno</a> <a href="https://github.com/newryan" title="GitHub">🚀</a>
+ <sub><b>Ildson Leno</a> <a href="https://github.com/ildsonLeno" title="GitHub">🚀</a>
 
 
 Feito com ❤️ por Ildson Leno entre em contato!!
